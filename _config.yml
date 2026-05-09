@@ -24,13 +24,13 @@ repository               : "DajunLin29/dajunlin-research"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dajun Lin"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Salt Lake City, UT, USA"
   employer         : "The University of Utah"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lin18621121307@gmail.com" 
 
   # Academic websites
   academia         : # URL
