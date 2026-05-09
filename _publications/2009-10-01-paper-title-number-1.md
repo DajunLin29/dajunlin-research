@@ -2,7 +2,7 @@
 title: "Diffraction-free orbital angular momentum holography"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Diffraction-free orbital angular momentum holography
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-2-5
 venue: 'Optics Express'
