@@ -13,4 +13,5 @@ citation: 'Lin, Dajun, et al. "Inverse-designed multi-level diffractive doublet 
 
 
 ![WFOV camera result]({{ site.baseurl }}/images/wide-fov.png)
+<br clear="all">
 This work demonstrates an ultra-thin 100° wide-field-of-view camera using an inverse-designed multi-level diffractive doublet.
