@@ -14,7 +14,6 @@ excerpt: |
 
 date: 2023-06-22
 venue: 'ACS Photonics'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://academicpages.github.io/files/paper2.pdf'
 citation: 'Lin, Dajun, et al. "Inverse-designed multi-level diffractive doublet for wide field-of-view imaging." ACS Photonics 10.8 (2023): 2661-2669.'
 ---
