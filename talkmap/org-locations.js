@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Inch-scale achromatic planar flat lens doublet reshaping near-eye display<br />CLEO and Conference on Lasers and Electro-Optics; Charlotte, NC, US",
+    35.2272086,
+    -80.8430827
   ],
   [
     "Machine-learning-assisted inverse design for wide-FOV dual-layer multi-level diffractive lens integration<br />CLEO and Conference on Lasers and Electro-Optics; San Jose, CA, USA",
