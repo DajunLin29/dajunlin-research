@@ -2,8 +2,16 @@
 title: "Inverse-designed multi-level diffractive doublet for wide field-of-view imaging"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2023-ACS Photonics
 excerpt: 'This work demonstrates an ultra-thin 100° wide-field-of-view camera using an inverse-designed multi-level diffractive doublet, achieving a total-track length of only ~2 mm at 850 nm. The camera shows experimentally validated focusing and imaging performance with de-vignetting calibration, offering a pathway toward compact, lightweight WFOV cameras for portable applications.'
+<br>
+
+<img src="/images/fig1.png" alt="WFOV camera result" width="600">
+
+<br>
+
+Multi-level diffractive lens (MDL) doublet for 100° FOV imaging. The camera is composed of the assembled doublet placed in proximity to the image sensor...
+'
 date: 2023-06-22
 venue: 'ACS Photonics'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
