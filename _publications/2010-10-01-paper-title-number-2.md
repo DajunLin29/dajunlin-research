@@ -11,6 +11,6 @@ paperurl: 'https://academicpages.github.io/files/paper2.pdf'
 citation: 'Lin, Dajun, et al. "Inverse-designed multi-level diffractive doublet for wide field-of-view imaging." ACS Photonics 10.8 (2023): 2661-2669.'
 ---
 
-![WFOV camera result](/images/wide-fov.png)
 
+![WFOV camera result]({{ site.baseurl }}/images/wide-fov.png)
 This work demonstrates an ultra-thin 100° wide-field-of-view camera using an inverse-designed multi-level diffractive doublet.
