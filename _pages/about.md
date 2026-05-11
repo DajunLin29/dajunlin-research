@@ -10,6 +10,14 @@ redirect_from:
 It is very challenging to correct off-axis aberrations using a single surface, primarily owing to the non-paraxial diffraction at large incidence angles. In our first milestone, we design, fabricate, and characterize a 100¡ã FOV camera with a total-track length of ¡«2 mm, composed of an inverse-designed MDL doublet with an input-aperture diameter of 0.204 mm, a back-focal length of 1 mm, and operating at ¦Ë = 850 nm. Using careful experiments, we characterize the focusing and imaging performance as well as demonstrate de-vignetting based on experimental calibration.
 
 
+Versatile flat lenses for wide-field-of-view and achromatic imaging
+=====
+xxxx
+
+Single-shot fabtication of 3D micro/nano sctructures
+=====
+xxxx
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
