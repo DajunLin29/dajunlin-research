@@ -1,15 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Versatile flat lenses for wide-field-of-view and achromatic imaging"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+It is very challenging to correct off-axis aberrations using a single surface, primarily owing to the non-paraxial diffraction at large incidence angles. In our first milestone, we design, fabricate, and characterize a 100¡ã FOV camera with a total-track length of ¡«2 mm, composed of an inverse-designed MDL doublet with an input-aperture diameter of 0.204 mm, a back-focal length of 1 mm, and operating at ¦Ë = 850 nm. Using careful experiments, we characterize the focusing and imaging performance as well as demonstrate de-vignetting based on experimental calibration.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
