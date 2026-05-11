@@ -1,33 +1,22 @@
 ---
 permalink: /
-title: "Versatile flat lenses for wide-field-of-view and achromatic imaging"
+title: "Versatile flat lenses for imaging & Volumetirc additive manufacuring"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-It is very challenging to correct off-axis aberrations using a single surface, primarily owing to the non-paraxial diffraction at large incidence angles. In our first milestone, we design, fabricate, and characterize a 100¡ã FOV camera with a total-track length of ¡«2 mm, composed of an inverse-designed MDL doublet with an input-aperture diameter of 0.204 mm, a back-focal length of 1 mm, and operating at ¦Ë = 850 nm. Using careful experiments, we characterize the focusing and imaging performance as well as demonstrate de-vignetting based on experimental calibration.
+x
 
 
 Versatile flat lenses for wide-field-of-view and achromatic imaging
 =====
-xxxx
+It is very challenging to correct off-axis aberrations using a single surface, primarily owing to the non-paraxial diffraction at large incidence angles. In our first milestone, we design, fabricate, and characterize a 100° FOV camera with a total-track length of <2 mm, composed of an inverse-designed MDL doublet with an input-aperture diameter of 0.204 mm, a back-focal length of 1 mm, and operating at 850 nm. Using careful experiments, we characterize the focusing and imaging performance as well as demonstrate de-vignetting based on experimental calibration.
 
 Single-shot fabtication of 3D micro/nano sctructures
 =====
-xxxx
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+To further improve the fabrication efficiency, we introduce a single-shot holographic 3D printing technique that overcomes this bottleneck through the combined use of inverse-designed microstructured phase masks and photopolymer resins with tailored optical absorption. By engineering complex phase mask topographies, we shape the volumetric light field to form arbitrary three-dimensional intensity distributions within the resin. Simultaneously, we design the resin’s absorption profile to balance minimal attenuation with sufficient energy deposition for structural fidelity. This enables the fabrication of millimeter-scale architectures with sub-100-μm feature sizes in a single exposure lasting less than 7 seconds. Our recent achievement ‘Single-exposure holographic additive manufacturing via inverse-designed phase masks’ is ready for submission
 
 Getting started
 ======
