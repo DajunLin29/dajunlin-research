@@ -1,0 +1,27 @@
+---
+layout: research-home
+permalink: /photography/san-diego/
+title: "San Diego — Photography"
+---
+
+<style>
+  .album-back { display: inline-block; margin-bottom: 16px; font-size: 13px; }
+  .album-date { display: block; margin-top: 8px; color: #60717a; font-size: 14px; }
+  .san-diego-gallery { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: start; gap: 20px; }
+  .san-diego-gallery figure { margin: 0; }
+  .san-diego-gallery a { display: block; }
+  .san-diego-gallery img { display: block; width: 100%; height: auto; border-radius: 3px; }
+  .san-diego-gallery a:focus-visible { outline: 2px solid #17648a; outline-offset: 5px; }
+  @media (max-width: 700px) { .san-diego-gallery { grid-template-columns: 1fr; gap: 24px; } }
+</style>
+
+<div class="page-title">
+  <a class="album-back" href="{{ '/photography/' | relative_url }}">← Photography</a>
+  <h1>San Diego</h1>
+  <time class="album-date" datetime="2026-04">Apr 2026</time>
+</div>
+<section class="content-section san-diego-gallery" aria-label="San Diego photographs, April 2026">
+  <figure><a href="{{ '/assets/images/san-diego-01.jpg' | relative_url }}" aria-label="Open full-size photograph of a sunny San Diego cove"><img src="{{ '/assets/images/san-diego-01.jpg' | relative_url }}" alt="A sunny San Diego cove with palm trees, swimmers, and blue ocean" width="4672" height="7008" fetchpriority="high"></a></figure>
+  <figure><a href="{{ '/assets/images/san-diego-02.jpg' | relative_url }}" aria-label="Open full-size portrait by the San Diego coast"><img src="{{ '/assets/images/san-diego-02.jpg' | relative_url }}" alt="A woman wearing sunglasses and holding a camera beside the blue San Diego coastline" width="7008" height="4672" decoding="async"></a></figure>
+  <figure><a href="{{ '/assets/images/san-diego-03.jpg' | relative_url }}" aria-label="Open full-size photograph of kayakers between coastal cliffs"><img src="{{ '/assets/images/san-diego-03.jpg' | relative_url }}" alt="Colorful kayaks on clear blue water between rocky San Diego coastal cliffs" width="4672" height="7008" decoding="async"></a></figure>
+</section>

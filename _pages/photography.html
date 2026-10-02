@@ -4,4 +4,22 @@ permalink: /photography/
 title: "Photography"
 ---
 
-<div class="page-title"><h1>Photography</h1></div><section class="content-section" aria-label="Photography"><p class="section-intro">Photo collection coming soon.</p></section>
+<style>
+  .photo-albums { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px; }
+  .photo-album { display: block; color: inherit; }
+  .photo-album:hover { text-decoration: none; }
+  .photo-album img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; object-position: center 65%; border-radius: 3px; }
+  .photo-album-info { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; padding: 14px 0; }
+  .photo-album h2 { font-size: 21px; }
+  .photo-album time { font-size: 13px; color: #60717a; white-space: nowrap; }
+  .photo-album:focus-visible { outline: 2px solid #17648a; outline-offset: 5px; }
+  @media (max-width: 700px) { .photo-albums { grid-template-columns: 1fr; } }
+</style>
+
+<div class="page-title"><h1>Photography</h1></div>
+<section class="content-section photo-albums" aria-label="Photography albums">
+  <a class="photo-album" href="{{ '/photography/san-diego/' | relative_url }}" aria-label="View San Diego photography album, April 2026, 3 photos">
+    <img src="{{ '/assets/images/san-diego-01.jpg' | relative_url }}" alt="A sunny San Diego cove with palm trees, swimmers, and blue ocean" width="4672" height="7008" fetchpriority="high">
+    <div class="photo-album-info"><h2>San Diego</h2><time datetime="2026-04">Apr 2026</time></div>
+  </a>
+</section>
