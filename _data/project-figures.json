@@ -1,0 +1,136 @@
+{
+  "volumetric-printing": {
+    "image": "/assets/images/holographic-3d-printing-overview.png",
+    "image_width": 1759,
+    "image_height": 950,
+    "alt": "Holographic 3D-printing optical setup, hollow printed cube and cylinder, and time-resolved polymerization images.",
+    "credit": "Lin et al., 2026 · Fig. 3",
+    "figure_source": "https://www.science.org/doi/abs/10.1126/sciadv.aec3536",
+    "original_source": "https://arxiv.org/pdf/2601.06614",
+    "extraction": "Full Figure 3, losslessly extracted from page 12 of the author manuscript accompanying the published Science Advances article. Original panel labels and scale bars preserved.",
+    "rights": "Author manuscript: arXiv non-exclusive distribution license; no Creative Commons license asserted."
+  },
+  "volumetric-lithography": {
+    "image": "/assets/images/holographic-lithography-overview.png",
+    "image_width": 840,
+    "image_height": 464,
+    "alt": "Experimental holographic-lithography setup with printed UTAH and 2025 structures and scanning electron micrographs of high-aspect-ratio lattices.",
+    "credit": "Lin, Baker & Menon, 2026 · Experimental overview",
+    "figure_source": "https://www.nature.com/articles/s41467-026-73975-4",
+    "original_source": "Experimental montage supplied by Dajun Lin.",
+    "extraction": "Complete author-supplied montage preserved unchanged.",
+    "rights": "Author-supplied image for Dajun Lin’s academic website."
+  },
+  "diffractive-doublet": {
+    "image": "/assets/images/diffractive-doublet.png",
+    "image_width": 1536,
+    "image_height": 583,
+    "alt": "Wide-field image, miniature camera assembly, and optical geometry of the multi-level diffractive doublet.",
+    "credit": "Lin et al., 2023 · Fig. 1",
+    "figure_source": "https://doi.org/10.1021/acsphotonics.3c00406",
+    "original_source": "https://dajunlin29.github.io/dajunlin-research/images/fig1.png",
+    "extraction": "Original Figure 1 previously supplied through the author website; image retained unchanged.",
+    "rights": "ACS Photonics article figure; original author-hosted asset."
+  },
+  "optical-computing": {
+    "image": "/assets/images/diffractive-neural-network-overview.png",
+    "image_width": 1350,
+    "image_height": 625,
+    "alt": "A handwritten digit passes through a two-sided quartz diffractive neural-network chip and focuses onto a digit-classification output plane.",
+    "credit": "Dong, Lin et al., 2024 · Fig. 1a (detail)",
+    "figure_source": "https://www.nature.com/articles/s44172-024-00211-6",
+    "original_source": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44172-024-00211-6/MediaObjects/44172_2024_211_Fig1_HTML.png",
+    "extraction": "Panel 1a cropped from the publisher figure; full original Figure 1 available through Enlarge.",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "full_image": "/assets/images/diffractive-neural-network-fig1.png"
+  },
+  "perovskite-display": {
+    "image": "/assets/images/perovskite-holographic-display.png",
+    "image_width": 624,
+    "image_height": 520,
+    "alt": "Time sequence of holographic letters reconstructed in perovskite nanocrystal glass, from 3 to 33 seconds.",
+    "credit": "Sun et al., 2022 · Fig. 4H (detail)",
+    "figure_source": "https://doi.org/10.1126/science.abj2691",
+    "original_source": "https://einstein.nju.edu.cn/upload/uploadify/20220124/20220120-Science-Three-dimensionaldirectlithographyofstableperovskitenanocrystalsinglass_202201241539557864.pdf",
+    "extraction": "Figure 4H extracted from paper page 310 (PDF page 4); full Figure 4 available through Enlarge.",
+    "rights": "Copyright 2022 The Authors, exclusive licensee American Association for the Advancement of Science.",
+    "full_image": "/assets/images/perovskite-display-fig4.png"
+  },
+  "optical-communication": {
+    "image": "/assets/images/768-ary-optical-communication-overview.png",
+    "image_width": 2340,
+    "image_height": 1299,
+    "alt": "Overview of Laguerre–Gaussian mode multiplexing, propagation through atmospheric turbulence, convolutional-neural-network demultiplexing, and information recovery.",
+    "credit": "Luan, Lin et al., 2021 · Fig. 1",
+    "figure_source": "https://opg.optica.org/oe/abstract.cfm?uri=oe-29-13-19807",
+    "original_source": "Figure supplied by Dajun Lin from the published paper.",
+    "extraction": "Complete overview figure supplied by the author and preserved unchanged.",
+    "rights": "Copyright 2021 Optical Society of America. Author-supplied article figure."
+  },
+  "terahertz-holograms": {
+    "image": "/assets/images/terahertz-hologram-overview.png",
+    "image_width": 1367,
+    "image_height": 813,
+    "alt": "Overview of five reconfiguration scenarios using cascaded diffractive optical elements to generate different terahertz holographic images.",
+    "credit": "Jia, Lin & Sensale-Rodriguez, 2023 · Overview",
+    "figure_source": "https://doi.org/10.1002/adom.202202538",
+    "original_source": "Figure supplied by Dajun Lin from the published paper.",
+    "extraction": "Complete overview figure supplied by the author and preserved unchanged.",
+    "rights": "Author-supplied figure from Advanced Optical Materials 11, 2202538 (2023)."
+  },
+  "sers-kidney-assessment": {
+    "image": "/assets/images/cnn-sers-overview.png",
+    "image_width": 1890,
+    "image_height": 723,
+    "alt": "CNN-assisted SERS workflow showing biomarker detection, Raman signals, convolutional-neural-network analysis, and real-time kidney-health assessment.",
+    "credit": "Lu, Lin et al., 2023 · Graphical abstract",
+    "figure_source": "https://pubs.rsc.org/en/content/articlehtml/2023/ay/d2ay01573k",
+    "original_source": "Figure supplied by Dajun Lin from the published paper.",
+    "extraction": "Complete graphical overview supplied by the author and preserved unchanged.",
+    "rights": "Author-supplied figure from Analytical Methods 15, 322–332 (2023)."
+  },
+  "graphene-hologram": {
+    "image": "/assets/images/graphene-hologram-overview.png",
+    "image_width": 1367,
+    "image_height": 896,
+    "alt": "Overview of laser-induced graphene hologram reconfiguration, laser and thermal reduction mechanisms, and multisecret holographic sharing.",
+    "credit": "Dong, Luan, Lin et al., 2023 · Overview",
+    "figure_source": "https://doi.org/10.1002/lpor.202200805",
+    "original_source": "Figure supplied by Dajun Lin from the published paper.",
+    "extraction": "Complete overview figure supplied by the author and preserved unchanged.",
+    "rights": "Author-supplied figure from Laser & Photonics Reviews 17, 2200805 (2023)."
+  },
+  "oam-holography": {
+    "image": "/assets/images/oam-holography-overview.png",
+    "image_width": 1914,
+    "image_height": 1561,
+    "alt": "Overview of an extended-depth-of-focus flat lens for diffraction-free OAM modes, multiplexed holography, self-healing after obstruction, and tolerance to dense fog.",
+    "credit": "Lin et al., 2025 · Fig. 1",
+    "figure_source": "https://doi.org/10.1364/OE.539970",
+    "original_source": "Figure supplied by Dajun Lin from the published paper.",
+    "extraction": "Complete Figure 1 supplied by the author and preserved unchanged.",
+    "rights": "Author-supplied figure from Optics Express 33, 5791–5799 (2025)."
+  },
+  "hybrid-optics": {
+    "image": "/assets/images/hybrid-optics-overview.png",
+    "image_width": 745,
+    "image_height": 557,
+    "alt": "Montage of a two-inch multi-level diffractive lens, lightweight optic, and full-frame 135-millimeter and 20-millimeter f/4 hybrid camera lenses.",
+    "credit": "Dajun Lin · Ongoing hybrid-optics research",
+    "original_source": "Research montage supplied by Dajun Lin.",
+    "extraction": "Complete author-supplied montage preserved unchanged.",
+    "rights": "Author-supplied image for Dajun Lin’s academic website."
+  },
+  "granite-mineral-mechanics": {
+    "image": "/assets/images/granite-dip-dem-overview.png",
+    "image_width": 476,
+    "image_height": 647,
+    "alt": "Workflow from a granite specimen through X-ray-diffraction-based digital image processing to a mineral-resolved PFC2D discrete-element model.",
+    "credit": "He et al., 2023 · Method overview",
+    "figure_source": "https://doi.org/10.1016/j.ijmst.2023.06.003",
+    "original_source": "Figure supplied by Dajun Lin from the published paper.",
+    "extraction": "Complete method overview supplied by the author and preserved unchanged.",
+    "rights": "Author-supplied figure from International Journal of Mining Science and Technology 33(8), 949–962 (2023)."
+  }
+}

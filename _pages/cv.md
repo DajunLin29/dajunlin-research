@@ -1,64 +1,12 @@
 ---
-layout: archive
-title: "CV"
+layout: research-home
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: "Curriculum vitae"
 ---
 
-{% include base_path %}
-
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<div class="page-title"><h1>Experience &amp; CV</h1><p>Ph.D. Candidate · Electrical Engineering · University of Utah</p><a class="" href="{{ '/files/CV_Dajun_26Fall.pdf' | relative_url }}">Download CV (PDF) ↗</a></div><nav class="page-nav" aria-label="CV sections"><a class="" href="#experience">Experience</a><a class="" href="#education">Education</a><a class="" href="#skills">Technical expertise</a><a class="" href="#talks">Talks</a><a class="" href="#awards">Honors</a></nav>
+<section id="experience" class="content-section" aria-labelledby="experience-heading"><div class="section-heading"><h2 id="experience-heading">Experience</h2><span></span></div><div class="timeline"><article><p class="date">May – Aug 2026</p><div><h3><strong>Futurewei Technologies</strong>, <span style="font-weight:400">Basking Ridge, NJ, USA</span></h3><p>Photonic and Thermal Simulation Intern · IC Lab</p><ul><li>Developed differentiable ray-tracing and wave-propagation models for hybrid refractive–diffractive lenses.</li><li>Optimized an achromatic 80°-FOV refractive–diffractive hybrid lens to reduce chromatic aberration, distortion, and field curvature.</li></ul></div></article></div></section>
+<section id="education" class="content-section" aria-labelledby="education-heading"><div class="section-heading"><h2 id="education-heading">Education</h2><span></span></div><div class="timeline education-timeline"><article><p class="date">2022 – 2026 (expected)</p><div><h3><strong>Ph.D. in Electrical Engineering, University of Utah</strong>, <span class="education-location">Salt Lake City, UT, USA</span></h3><p class="muted">Prof. Rajesh Menon Group · Graduate Research Fellowship ($28,500), 2025–2026</p></div></article><article><p class="date">2018 – 2021</p><div><h3><strong>M.Eng. in Optics Engineering, University of Shanghai for Science and Technology</strong>, <span class="education-location">Shanghai, China</span></h3><p class="muted">Advisors: Prof. Xinyuan Fang and Haitao Luan (Prof. Min Gu Group) · Graduate Fellowship Award, 2018–2021</p></div></article><article><p class="date">2014 – 2018</p><div><h3><strong>B.Eng. in Optics Engineering, Changzhou Institute of Technology</strong>, <span class="education-location">Changzhou, China</span></h3></div></article></div></section>
+<section id="skills" class="content-section" aria-labelledby="skills-heading"><div class="section-heading"><h2 id="skills-heading">Technical expertise</h2><span></span></div><div class="skills-grid"><article><h3>Programming &amp; machine learning</h3><p>Python, TensorFlow, PyTorch, C++, MATLAB, LabVIEW; AI-assisted coding and research.</p></article><article><h3>Optical design &amp; simulation</h3><p>Differentiable ray tracing, wave propagation, inverse design, Zemax, Lumerical, COMSOL, RCWA, MEEP, CST, HFSS.</p></article><article><h3>Micro- &amp; nanofabrication</h3><p>Photolithography, Raith Voyager e-beam lithography, Nanoscribe two-photon polymerization, DWL 66+ laser direct writing, Cr and HF/BOE wet etching, ICP-RIE, PVD, PECVD.</p></article><article><h3>Metrology &amp; experimental systems</h3><p>8+ years of hands-on optical setup experience; SEM, TEM, Keyence and Olympus LEXT confocal microscopy; alignment, automation, and imaging characterization.</p></article></div></section>
+<section id="talks" class="content-section" aria-labelledby="talks-heading"><div class="section-heading"><h2 id="talks-heading">Talks</h2><span></span></div><ol class="talk-list"><li><span class="date">2026</span><div><h3>Single-exposure volumetric photolithography producing ultra-high aspect-ratio microstructures</h3><p>EIPBN · Denver · Presenter</p></div></li><li><span class="date">2025</span><div><h3>Single-exposure holographic volumetric additive manufacturing</h3><p>EIPBN · Savannah · Presenter</p></div></li><li><span class="date">2024</span><div><h3>Single-exposure millimeter-scale volumetric holographic additive manufacturing</h3><p>EIPBN · La Jolla · Presenter</p></div></li><li><span class="date">2024</span><div><h3>Diffraction-free orbital angular momentum holography enabled by an extended depth-of-focus flat lens</h3><p>CLEO · Charlotte · Presenter</p></div></li><li><span class="date">2024</span><div><h3>Inch-scale achromatic planar flat lens doublet reshaping near-eye display</h3><p>CLEO · Charlotte · Presenter</p></div></li><li><span class="date">2023</span><div><h3>Machine-learning-assisted inverse design for wide-FOV dual-layer multi-level diffractive lens integration</h3><p>CLEO · San Jose · Presenter</p></div></li></ol></section>
+<section id="awards" class="content-section" aria-labelledby="awards-heading"><div class="section-heading"><h2 id="awards-heading">Honors & service</h2><span></span></div><div class="award"><p class="date">2025–2026</p><div><h3>Graduate Research Fellowship · University of Utah</h3><p>$28,500 fellowship; selected among 10 fellows from 200 Ph.D. applicants across the university for outstanding research potential.</p></div></div><div class="award"><p class="date">2018–2021</p><div><h3>Graduate Fellowship Award</h3><p>University of Shanghai for Science and Technology.</p></div></div><p class="service"><strong>Service:</strong> Session Student Helper at EIPBN in La Jolla (2024), Savannah (2025), and Denver (2026).</p></section>

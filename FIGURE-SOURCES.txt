@@ -1,0 +1,86 @@
+PROJECT FIGURE SOURCES — DAJUN LIN
+
+Figures come from linked research papers or author-supplied research images. Cropped panels are identified below.
+
+volumetric-printing
+Lin et al., 2026 · Fig. 3
+Paper: https://www.science.org/doi/abs/10.1126/sciadv.aec3536
+Image source: https://arxiv.org/pdf/2601.06614
+Full Figure 3, losslessly extracted from page 12 of the author manuscript accompanying the published Science Advances article. Original panel labels and scale bars preserved.
+Author manuscript: arXiv non-exclusive distribution license; no Creative Commons license asserted.
+
+volumetric-lithography
+Lin, Baker & Menon, 2026 · Experimental overview
+Paper: https://www.nature.com/articles/s41467-026-73975-4
+Image source: Experimental montage supplied by Dajun Lin.
+Complete author-supplied montage preserved unchanged.
+Author-supplied image for Dajun Lin’s academic website.
+
+diffractive-doublet
+Lin et al., 2023 · Fig. 1
+Paper: https://doi.org/10.1021/acsphotonics.3c00406
+Image source: https://dajunlin29.github.io/dajunlin-research/images/fig1.png
+Original Figure 1 previously supplied through the author website; image retained unchanged.
+ACS Photonics article figure; original author-hosted asset.
+
+optical-computing
+Dong, Lin et al., 2024 · Fig. 1a (detail)
+Paper: https://www.nature.com/articles/s44172-024-00211-6
+Image source: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44172-024-00211-6/MediaObjects/44172_2024_211_Fig1_HTML.png
+Panel 1a cropped from the publisher figure; full original Figure 1 available through Enlarge.
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+perovskite-display
+Sun et al., 2022 · Fig. 4H (detail)
+Paper: https://doi.org/10.1126/science.abj2691
+Image source: https://einstein.nju.edu.cn/upload/uploadify/20220124/20220120-Science-Three-dimensionaldirectlithographyofstableperovskitenanocrystalsinglass_202201241539557864.pdf
+Figure 4H extracted from paper page 310 (PDF page 4); full Figure 4 available through Enlarge.
+Copyright 2022 The Authors, exclusive licensee American Association for the Advancement of Science.
+
+optical-communication
+Luan, Lin et al., 2021 · Fig. 1
+Paper: https://opg.optica.org/oe/abstract.cfm?uri=oe-29-13-19807
+Image source: Figure supplied by Dajun Lin from the published paper.
+Complete overview figure supplied by the author and preserved unchanged.
+Copyright 2021 Optical Society of America. Author-supplied article figure.
+
+terahertz-holograms
+Jia, Lin & Sensale-Rodriguez, 2023 · Overview
+Paper: https://doi.org/10.1002/adom.202202538
+Image source: Figure supplied by Dajun Lin from the published paper.
+Complete overview figure supplied by the author and preserved unchanged.
+Author-supplied figure from Advanced Optical Materials 11, 2202538 (2023).
+
+sers-kidney-assessment
+Lu, Lin et al., 2023 · Graphical abstract
+Paper: https://pubs.rsc.org/en/content/articlehtml/2023/ay/d2ay01573k
+Image source: Figure supplied by Dajun Lin from the published paper.
+Complete graphical overview supplied by the author and preserved unchanged.
+Author-supplied figure from Analytical Methods 15, 322–332 (2023).
+
+graphene-hologram
+Dong, Luan, Lin et al., 2023 · Overview
+Paper: https://doi.org/10.1002/lpor.202200805
+Image source: Figure supplied by Dajun Lin from the published paper.
+Complete overview figure supplied by the author and preserved unchanged.
+Author-supplied figure from Laser & Photonics Reviews 17, 2200805 (2023).
+
+oam-holography
+Lin et al., 2025 · Fig. 1
+Paper: https://doi.org/10.1364/OE.539970
+Image source: Figure supplied by Dajun Lin from the published paper.
+Complete Figure 1 supplied by the author and preserved unchanged.
+Author-supplied figure from Optics Express 33, 5791–5799 (2025).
+
+hybrid-optics
+Dajun Lin · Ongoing hybrid-optics research
+Image source: Research montage supplied by Dajun Lin.
+Complete author-supplied montage preserved unchanged.
+Author-supplied image for Dajun Lin’s academic website.
+
+granite-mineral-mechanics
+He et al., 2023 · Method overview
+Paper: https://doi.org/10.1016/j.ijmst.2023.06.003
+Image source: Figure supplied by Dajun Lin from the published paper.
+Complete method overview supplied by the author and preserved unchanged.
+Author-supplied figure from International Journal of Mining Science and Technology 33(8), 949–962 (2023).
