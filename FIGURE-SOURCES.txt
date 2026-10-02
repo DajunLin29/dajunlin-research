@@ -84,3 +84,9 @@ Paper: https://doi.org/10.1016/j.ijmst.2023.06.003
 Image source: Figure supplied by Dajun Lin from the published paper.
 Complete method overview supplied by the author and preserved unchanged.
 Author-supplied figure from International Journal of Mining Science and Technology 33(8), 949–962 (2023).
+
+double-sided-lithography
+Dajun Lin · Ongoing double-sided lithography research
+Image source: Research photograph supplied by Dajun Lin.
+Complete author-supplied photograph preserved unchanged.
+Author-supplied image for Dajun Lin’s academic website.

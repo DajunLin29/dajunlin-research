@@ -52,6 +52,23 @@
     "rights": "Author-supplied image for Dajun Lin’s academic website."
   },
   {
+    "id": "double-sided-lithography",
+    "category": "fabrication",
+    "title": "Alignment-free single-shot double-sided lithography",
+    "topic": "Double-sided lithography",
+    "tag": "Ongoing research",
+    "metric": "Single-shot · Alignment-free",
+    "summary": "I am developing alignment-free, single-shot lithography for double-sided patterning.",
+    "image": "/assets/images/double-sided-lithography-overview.png",
+    "image_width": 1416,
+    "image_height": 834,
+    "alt": "Photograph of a transparent substrate with circular patterns and lettering for ongoing double-sided lithography research.",
+    "credit": "Dajun Lin · Ongoing double-sided lithography research",
+    "original_source": "Research photograph supplied by Dajun Lin.",
+    "extraction": "Complete author-supplied photograph preserved unchanged.",
+    "rights": "Author-supplied image for Dajun Lin’s academic website."
+  },
+  {
     "id": "hybrid-optics",
     "category": "imaging",
     "title": "Wide-angle achromatic hybrid optics and neural image reconstruction",

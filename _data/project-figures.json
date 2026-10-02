@@ -132,5 +132,15 @@
     "original_source": "Figure supplied by Dajun Lin from the published paper.",
     "extraction": "Complete method overview supplied by the author and preserved unchanged.",
     "rights": "Author-supplied figure from International Journal of Mining Science and Technology 33(8), 949–962 (2023)."
+  },
+  "double-sided-lithography": {
+    "image": "/assets/images/double-sided-lithography-overview.png",
+    "image_width": 1416,
+    "image_height": 834,
+    "alt": "Photograph of a transparent substrate with circular patterns and lettering for ongoing double-sided lithography research.",
+    "credit": "Dajun Lin · Ongoing double-sided lithography research",
+    "original_source": "Research photograph supplied by Dajun Lin.",
+    "extraction": "Complete author-supplied photograph preserved unchanged.",
+    "rights": "Author-supplied image for Dajun Lin’s academic website."
   }
 }
